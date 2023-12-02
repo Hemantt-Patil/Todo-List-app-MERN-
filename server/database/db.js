@@ -5,7 +5,7 @@ dotenv.config();
 
 const Connection = () => {
 
-    const  MG = `mongodb+srv://ptlhem6:Hemptl6@todo-app.ij25qeo.mongodb.net/?retryWrites=true&w=majority`;
+    const  MG = `mongodb+srv://hem123:Hemantptl@todo-app.ob0olyb.mongodb.net/?retryWrites=true&w=majority`;
    
     mongoose.connect(MG, { useNewUrlParser: true });
 
